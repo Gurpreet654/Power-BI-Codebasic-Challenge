@@ -13,3 +13,5 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 challenge link: https://codebasics.io/challenge/codebasics-resume-project-challenge
 website https://codebasics.io/
+
+![image](https://user-images.githubusercontent.com/73746050/221444119-43a85d6b-2b98-44f2-9ae7-2e8883c14d48.png)
